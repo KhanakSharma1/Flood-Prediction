@@ -20,18 +20,25 @@ We plan to scrap data out from this webpage from time to time and store it in a 
 
 2)SENDING WARNING: The database will be accessed and red alert warning will be sent to the mobile phones of all the people in the effected area, using a free online text message sending portal.
 
-## Useful Links
-● https://docs.google.com/document/d/1HM4hRz3Bl4w9g63J4xWnjVuJba_rgmpCyf-2O4huqaM/edit
+### Useful Links
+● #### Literature Review
+  https://docs.google.com/document/d/1HM4hRz3Bl4w9g63J4xWnjVuJba_rgmpCyf-2O4huqaM/edit
+
 ● https://github.com/rajatkeshri/Flood-prediction
+
 ● https://www.mdpi.com/2073-4441/10/11/1536/htm
 
-### DATSETS
 
 ### PAPERS
 
 ● https://www.sciencedirect.com/science/article/pii/S2214241X15001212
+
 ● https://ieeexplore.ieee.org/abstract/document/8546257
+
 ● https://link.springer.com/article/10.1007/s12650-017-0453-3
+
 ● https://link.springer.com/article/10.1007/s12650-017-0453-3
+
 ● https://ieeexplore.ieee.org/document/8674113
+
 ● https://ieeexplore.ieee.org/document/8743796
