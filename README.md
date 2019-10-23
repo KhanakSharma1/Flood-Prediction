@@ -39,8 +39,6 @@ We plan to scrap data out from this webpage from time to time and store it in a 
 
 ● https://link.springer.com/article/10.1007/s12650-017-0453-3
 
-● https://link.springer.com/article/10.1007/s12650-017-0453-3
-
 ● https://ieeexplore.ieee.org/document/8674113
 
 ● https://ieeexplore.ieee.org/document/8743796
